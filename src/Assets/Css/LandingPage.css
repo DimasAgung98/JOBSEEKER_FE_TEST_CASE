@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&display=swap');
+
+/* NAVBAR */
+.navigation {
+    height: 101px;
+    left: 196px;
+    top: 24px;
+}
+
+.logo {
+    box-sizing: border-box;
+    position: absolute;
+    left: 7.85%;
+    right: 86.61%;
+    top: 18.81%;
+    bottom: 19.8%;
+}
+
+.b-contact-us {
+    height: 36px;
+    width: 132px;
+    left: 19px;
+    top: 8px;
+    border-radius: 8px;
+    background-color: #E4007E !important;
+    text-decoration: none !important;
+    border: none !important;
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    margin-right: 50px;
+}
+
+.e-languange {
+    width: 125px;
+    height: 19px;
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    text-decoration: underline;
+    color: #ffff;
+    vertical-align: middle !important;
+}
+
+.i-languange {
+    width: 125px;
+    height: 19px;
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffff;
+    vertical-align: middle !important;
+}
+
+.nav-item span:hover {
+    color: #E4007E !important;
+    cursor: pointer;
+}
+
+.group-1 {
+    position: absolute;
+    left: 68.12%;
+    right: 9.2%;
+    top: 18.89%;
+    bottom: 37.62%;
+}
+
+/* HERO */
+.BG {
+    background-image: url('../../Assets/Images/BG.png');
+    background-size: cover;
+}
+
+.hero-title {
+    font-family: 'Inter', sans-serif;
+    width: 870px !important;
+    height: 116px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    text-align: center;
+    color: white;
+}
+
+.hero-desc {
+    width: 668px !important;
+    height: 81px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 35px 0 !important;
+}
+
+.hero-btn {
+    font-family: 'Inter', sans-serif !important;
+    background-color: #E4007E !important;
+    color: #FFFFFF !important;
+    width: 162px !important;
+    height: 60px !important;
+    border-radius: 8px !important;
+    -webkit-border-radius: 8px !important;
+    -moz-border-radius: 8px !important;
+    -ms-border-radius: 8px !important;
+    -o-border-radius: 8px !important;
+}
+
+/* Board of Directors */
+.bod-title {
+    font-family: 'Inter', sans-serif;
+    width: 920px;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 120%;
+    text-align: center;
+}
