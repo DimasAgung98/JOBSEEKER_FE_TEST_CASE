@@ -1,7 +1,6 @@
 import React from 'react';
 import icon from '../../Assets/Images/lokasi.png'
 //IMPORT REACT ICONS
-import { GoLocation } from 'react-icons/go';
 import { FiArrowRight } from 'react-icons/fi';
 
 function JoinTeam() {

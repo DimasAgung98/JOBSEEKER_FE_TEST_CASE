@@ -515,6 +515,12 @@
     padding-right: 124px !important;
 }
 
+.logo-footer {
+    box-sizing: border-box;
+    height: 62px;
+    width: 110px !important;
+}
+
 .footer p {
     font-weight: 400;
     font-size: 14px;
@@ -578,6 +584,42 @@
 .icon-email {
     font-size: 20px;
     margin-right: 15px;
+}
+
+.title-1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.title-product {
+    font-family: 'Inter', sans-serif;
+    width: 132px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.product {
+    margin-bottom: 21px;
+}
+
+.coming-soon {
+    font-family: 'Inter', sans-serif;
+    height: 15px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 10px;
+    line-height: 150%;
+    color: #E4007E;
 }
 
 .icon-wa {

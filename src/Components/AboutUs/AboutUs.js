@@ -13,7 +13,7 @@ function AboutUs() {
                                 <div className='about-title'>About Us</div>
                             </div>
                             <div className='col-6'>
-                                <p className='lorem'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.</p>
+                                <p className='lorem'>Misi kami sederhana: memerangi angka pengangguran dengan membantu pencari kerja menemukan pekerjaan yang paling sesuai dengan keterampilan dan pengalaman mereka melalui social recruitment platform kami.</p>
                             </div>
 
                         </div>
