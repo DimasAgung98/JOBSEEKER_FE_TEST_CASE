@@ -30,7 +30,7 @@ function Navbar() {
                                     <Button className='b-contact-us'>Contact Us</Button>
                                 </li>
                                 <li className='nav-item'>
-                                    <div className='text-white'><span className='e-languange'>English </span><span className='i-languange'>/ Indonesia</span></div>
+                                    <div className='text-white'><span className='e-language'>English </span>/<span className='i-language'> Indonesia</span></div>
                                 </li>
                             </ul>
                         </div>

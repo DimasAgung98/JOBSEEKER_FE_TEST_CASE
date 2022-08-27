@@ -10,7 +10,7 @@ function Hero() {
                             <div className='hero-title'>Connecting people with opportunities</div>
                             <p className='hero-desc'>Kami percaya setiap orang berhak memiliki kesempatan untuk berkarya. Jobseeker Company hadir, untuk membantu menghubungkan mereka dengan kesempatan berkembang demi kehidupan yang lebih baik.</p>
                             <div className='w-100 text-center'>
-                                <button type="button" className="btn hero-btn">See Our Product</button>
+                                <a href='#ourproduct'><button type="button" className="btn hero-btn">See Our Product</button></a>
                             </div>
                         </div>
                     </div>

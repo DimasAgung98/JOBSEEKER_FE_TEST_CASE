@@ -18,6 +18,8 @@
 }
 
 .b-contact-us {
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 700 !important;
     height: 36px;
     width: 132px;
     left: 19px;
@@ -35,7 +37,7 @@
     margin-right: 50px;
 }
 
-.e-languange {
+.e-language {
     width: 125px;
     height: 19px;
     font-family: 'Manrope', sans-serif;
@@ -49,7 +51,7 @@
     vertical-align: middle !important;
 }
 
-.i-languange {
+.i-language {
     width: 125px;
     height: 19px;
     font-family: 'Manrope', sans-serif;
@@ -109,6 +111,7 @@
 
 .hero-btn {
     font-family: 'Inter', sans-serif !important;
+    font-weight: 700 !important;
     background-color: #E4007E !important;
     color: #FFFFFF !important;
     width: 162px !important;
@@ -120,6 +123,346 @@
     -o-border-radius: 8px !important;
 }
 
+/* OurProduct  */
+.ourproduct-title {
+    font-family: 'Inter', sans-serif !important;
+    width: 579px;
+    height: 56px;
+    left: 626px;
+    top: 1000px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: #000000;
+    margin: 87px 0 47px 0 !important;
+}
+
+.wrapper {
+    height: 506.4px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    padding: 44px 0 72.4px 0;
+}
+
+.bg-color-1 {
+    background: #F0EEFE;
+}
+
+.bg-color-2 {
+    background: #ECF5FF;
+}
+
+.wrapper-title {
+    font-family: 'Inter', sans-serif !important;
+    width: 245px;
+    height: 44px;
+    left: 793px;
+    top: 1148px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    background: linear-gradient(268.91deg, #050774 -7.14%, #E4007E 96.32%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 61px;
+}
+
+.wrapper-brand {
+    font-family: 'Inter', sans-serif !important;
+    width: 562.48px;
+    height: 48px;
+    left: 35px;
+    top: -3px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 120%;
+    text-align: center;
+    color: #000000;
+
+}
+
+.wrapper-desc {
+    font-family: 'Inter', sans-serif !important;
+    width: 562.48px;
+    height: 135px;
+    left: 0px;
+    top: 84px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: center;
+    color: #8B8B8B;
+    margin: 39px 0;
+}
+
+.more-btn {
+    left: 0%;
+    right: 0.82%;
+    top: 0%;
+    bottom: 7.69%;
+    font-family: 'Inter', sans-serif !important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 135%;
+    color: #050774;
+    text-decoration: none !important;
+}
+
+.custom-padding {
+    padding: 100px 0 50px 0;
+}
+
+/* About Us */
+.about-us-bg {
+    background-image: url('../../Assets/Images/BGABOUT.png');
+    width: 1440px;
+    height: 895px;
+    left: 196px;
+    top: 2773px;
+    margin: 111.96px 0 89px 0;
+}
+
+.wrapper-about {
+    padding: 97px 237px;
+}
+
+.about-title {
+    font-family: 'Inter', sans-serif !important;
+    width: 441px;
+    height: 58px;
+    left: 454px;
+    top: 3461px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 120%;
+    color: #FFFFFF;
+}
+
+.lorem {
+    font-family: 'Inter', sans-serif !important;
+    width: 495px;
+    height: 108px;
+    left: 932px;
+    top: 3461px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
+
+/* Our Culture */
+.culture-title {
+    font-family: 'Inter', sans-serif !important;
+    width: 562.48px;
+    height: 58px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 120%;
+    color: #000000;
+}
+
+.culture-desc {
+    font-family: 'Inter', sans-serif !important;
+    width: 562.48px;
+    height: 108px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #8B8B8B;
+    margin: 24px 0;
+}
+
+.btn-join {
+    font-family: 'Inter', sans-serif !important;
+    background: #050774 !important;
+    border-radius: 7px;
+    color: #FFFFFF !important;
+    height: 60px;
+    width: 162px;
+    left: 0px;
+    top: 0px;
+    border-radius: 7px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.02em;
+}
+
+/* Join team */
+.join-title {
+    font-family: 'Inter', sans-serif !important;
+    width: 335px;
+    height: 58px;
+    left: 319px;
+    top: 4393px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+    margin: 76px 0 36px 0 !important;
+}
+
+.join-desc {
+    font-family: 'Inter', sans-serif !important;
+    width: 814px;
+    height: 138px;
+    left: 324px;
+    top: 4487px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: 0.3px;
+    color: #8B8B8B;
+}
+
+.position-title {
+    font-family: 'Inter', sans-serif !important;
+    width: 210px;
+    height: 24px;
+    left: 319px;
+    top: 4671px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #000000;
+    margin: 46px 0 !important;
+}
+
+.location-title {
+    font-family: 'Inter', sans-serif !important;
+    width: 512px;
+    height: 120px;
+    left: 324px;
+    top: 4731px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 0.3px;
+
+}
+
+.all {
+    color: #000000;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.jakarta,
+.malang {
+    color: #8B8B8B !important;
+    text-decoration: none !important;
+    cursor: pointer;
+}
+
+.card-positions {
+    font-family: 'Inter', sans-serif !important;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 17.5358px rgba(0, 0, 0, 0.1);
+    border-radius: 16.5449px;
+    margin-bottom: 14px;
+}
+
+.current-title {
+    font-family: 'Inter', sans-serif !important;
+    width: 210px;
+    height: 24px;
+    left: 319px;
+    top: 4671px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.role-title {
+    font-family: 'Inter', sans-serif !important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29.7808px;
+    line-height: 150%;
+    color: #18181B;
+    padding-top: 32.44px;
+    padding-left: 35.52px;
+    padding-bottom: 15.5px;
+}
+
+.sub-title {
+    font-family: 'Inter', sans-serif !important;
+    font-style: normal;
+    font-weight: 300;
+    color: #18181B;
+}
+
+.role-desc {
+    font-family: 'Inter', sans-serif !important;
+    left: 658.31px;
+    top: 4834.94px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.0286px;
+    line-height: 150%;
+    color: #8B8B8B;
+    padding-left: 35.52px;
+    padding-top: 10px;
+}
+
+.time {
+    font-family: 'Inter', sans-serif !important;
+    left: 658.31px;
+    top: 4834.94px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.0286px;
+    line-height: 150%;
+    color: #8B8B8B;
+    padding-left: 35.52px;
+    padding-top: 45px;
+    margin-bottom: 20px;
+}
+
+.apply-btn {
+    font-family: 'Inter', sans-serif !important;
+    background: #050774;
+    border-radius: 7.0143px;
+    color: white;
+    width: 165.45px;
+    height: 44.67px;
+    margin-right: 37.28px;
+    margin-top: 32.51px;
+}
+
+.lokasi {
+    font-family: 'Inter', sans-serif !important;
+    height: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19.8538px;
+    line-height: 150%;
+    color: #20A6FC;
+    padding-top: 40.71px;
+}
+
 /* Board of Directors */
 .bod-title {
     font-family: 'Inter', sans-serif;
@@ -128,4 +471,140 @@
     font-size: 56px;
     line-height: 120%;
     text-align: center;
+    margin-top: 112px !important;
+    margin-bottom: 65px !important;
+}
+
+.picture-profile {
+    margin-left: 47px;
+}
+
+.name-title {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    margin-top: 8px;
+}
+
+.name-desc {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.3px;
+    color: #8B8B8B;
+    margin-bottom: 112px;
+    margin-top: 8px;
+}
+
+/* Footer */
+.footer {
+    font-family: 'Inter', sans-serif;
+    background: #202020;
+    width: 1440px;
+    height: 650px;
+    left: 196px;
+    top: 6156px;
+    color: white;
+    padding-left: 124px !important;
+    padding-right: 124px !important;
+}
+
+.footer p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.socials {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    left: 0 !important;
+}
+
+.icon {
+    margin-right: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.socials a {
+    color: white;
+    font-size: 20px;
+    height: 16px;
+    width: 20px;
+    left: 2px;
+    top: 4px;
+    border-radius: 0px;
+}
+
+.line {
+    border-top: 2px solid white;
+}
+
+.copyright {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 32px !important;
+}
+
+.small-tag {
+    margin-top: 30px !important;
+}
+
+.small-tag a {
+    color: white !important;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.small-tag a:hover {
+    color: #E4007E !important;
+}
+
+.icon-email {
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.icon-wa {
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.fb:hover {
+    color: #4267B2;
+}
+
+.ig:hover {
+    color: #C13584;
+}
+
+.linked:hover {
+    color: #0072b1;
+}
+
+.tik:hover {
+    color: #00f2ea;
+}
+
+.yt:hover {
+    color: #FF0000;
+}
+
+.telegram:hover {
+    color: #e0cfb1;
 }
