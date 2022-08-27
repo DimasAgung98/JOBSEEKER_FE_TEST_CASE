@@ -240,6 +240,24 @@
     padding: 97px 237px;
 }
 
+.player-wrapper {
+    position: relative;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.react-player {
+    border-radius: 50px;
+    overflow: hidden;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
 .about-title {
     font-family: 'Inter', sans-serif !important;
     width: 441px;
