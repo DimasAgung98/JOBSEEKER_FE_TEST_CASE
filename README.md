@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 # R Dimas Agung Wicaksono
 
-1. First open terminal and install all module on package.json using `npm install`
+First open terminal and install all module on package.json using `npm install`
 
 In the project directory, you can run:
 `cd client`
