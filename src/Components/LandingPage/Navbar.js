@@ -8,8 +8,8 @@ function Navbar() {
     return (
         <>
             <section id='navbar'>
-                <nav className='navbar navigation navbar-expand-lg navbar-dark fixed-top'>
-                    <div className='container-fluid'>
+                <nav className='navbar navbar-expand-lg navbar-dark fixed-top'>
+                    <div className='container-fluid navigation'>
                         <a href='/' className='navbar-brand'>
                             <img className='logo' src={Logo} alt="logo" />
                         </a>
